@@ -26,8 +26,8 @@ automated-tests-python/
 
 ---
 
-``` ## Tecnologias Utilizadas
-
+```text ## Tecnologias Utilizadas
+``` 
 | Ferramenta | Função |
 |-------------|--------|
 | **Python 3** | Linguagem principal |
@@ -38,7 +38,7 @@ automated-tests-python/
 
 ---
 
-## Instalação e Execução
+``` text ## Instalação e Execução
 
 ## Execute todos os testes:
 pytest -v
