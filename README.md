@@ -22,12 +22,12 @@ automated-tests-python/
 │
 ├── report.html # Relatório HTML gerado pelo pytest-html
 │
-└── requirements.txt # Dependências do projeto ``` 
+└── requirements.txt # Dependências do projeto 
 
 ---
 
 # Tecnologias Utilizadas
-
+``` 
 | Ferramenta | Função |
 |-------------|--------|
 | **Python 3** | Linguagem principal |
