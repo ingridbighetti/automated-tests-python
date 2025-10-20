@@ -40,7 +40,7 @@ automated-tests-python/
 ## Instalação e Execução
 
 ## Clone o repositório:
-- git clone https://github.com/seuusuario/automated-tests-python.git
+- git clone 
 - cd automated-tests-python
 - 
 ## Execute todos os testes:
@@ -51,7 +51,7 @@ pytest --html=report.html --self-contained-html -v
 
 ## Abra o relatório:
 No navegador: abra o arquivo report.html
-Ou diretamente no Jupyter/Colab:
+Ou diretamente no Jupyter/Colab: https://colab.research.google.com/drive/1vsucgrxpLw5Fmb93r_5eGRIqQpa0aQ3Q?usp=sharing
 from IPython.display import HTML
 HTML(open("report.html").read())
 
