@@ -7,7 +7,6 @@ O objetivo é demonstrar como aplicar boas práticas de testes em diferentes con
 
 ## Estrutura do Projeto
 
-```bash
 automated-tests-python/
 │
 ├── calculadora/
@@ -26,8 +25,7 @@ automated-tests-python/
 
 ---
 
-```markdown
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 | Ferramenta | Função |
 |-------------|--------|
