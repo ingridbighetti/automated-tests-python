@@ -26,7 +26,7 @@ automated-tests-python/
 
 ---
 
-## Tecnologias Utilizadas
+## ``` Tecnologias Utilizadas
 
 ``` 
 | Ferramenta | Função |
