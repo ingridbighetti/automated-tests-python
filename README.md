@@ -24,9 +24,9 @@ automated-tests-python/
 │
 └── requirements.txt # Dependências do projeto 
 
----
-
 ```
+--- 
+
 ## Tecnologias Utilizadas
 
 | Ferramenta | Função |
