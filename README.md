@@ -26,7 +26,7 @@ automated-tests-python/
 
 ---
 
-```text ## Tecnologias Utilizadas
+``` ## Tecnologias Utilizadas
 ``` 
 | Ferramenta | Função |
 |-------------|--------|
@@ -38,7 +38,7 @@ automated-tests-python/
 
 ---
 
-``` text ## Instalação e Execução
+``` ## Instalação e Execução
 
 ## Execute todos os testes:
 pytest -v
