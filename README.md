@@ -7,6 +7,7 @@ O objetivo é demonstrar como aplicar boas práticas de testes em diferentes con
 
 ## Estrutura do Projeto
 
+```
 automated-tests-python/
 │
 ├── calculadora/
@@ -21,7 +22,7 @@ automated-tests-python/
 │
 ├── report.html # Relatório HTML gerado pelo pytest-html
 │
-└── requirements.txt # Dependências do projeto
+└── requirements.txt # Dependências do projeto ``` 
 
 ---
 
